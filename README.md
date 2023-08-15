@@ -1,0 +1,3 @@
+- 👋 **maria santos**
+- 👀 bem vindo
+-  estou estudondo pensamento computacional
